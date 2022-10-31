@@ -63,7 +63,7 @@ export default function CartPage({data}) {
             <div className="layout-2col__col bg-white">
                 <div className="p-2 md:p-4 md:px-8">
                     <Link href="/" className="logo">
-                        Commerble Shop
+                        iwate Shop
                     </Link>
                 </div>
                 <h1 className="text-center my-8 text-indigo-900 text-4xl">Cart</h1>
